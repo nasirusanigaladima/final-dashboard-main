@@ -1,0 +1,95 @@
+Dashboard Site Documentation
+
+1. Project Structure
+--------------------
+Your project is a React-based dashboard built with Vite and Tailwind CSS for fast development and modern styling. The main folders and files are:
+
+- src/: Contains all source code.
+  - App.jsx, main.jsx: Entry points for the React app.
+  - components/: Reusable UI components (Dashboard, Footer, Header, Section, Sidebar, etc.).
+  - pages/: Main pages (Analytics, Courses, CSV Viewer/Editor, Dashboardpage, Enrollment, Homepage, Students).
+  - assets/: Static assets (SVGs, images).
+- public/: Contains CSV data files (attendance, courses, enrollments, feedback, grades, students) and static assets.
+- Config files: package.json, vite.config.js, tailwind.config.cjs, postcss.config.cjs, eslint.config.js.
+
+2. Main Tools & Libraries
+-------------------------
+- React: UI library for building interactive components and pages.
+- Vite: Fast development server and build tool.
+- Tailwind CSS: Utility-first CSS framework for styling.
+- Lucide React: Icon library for UI elements.
+- PapaParse: Library for parsing CSV files in the browser.
+- Chart.js: For rendering charts and analytics (installed, likely used in Analytics page).
+
+3. Data Flow
+------------
+- CSV Data: All student, course, enrollment, attendance, feedback, and grades data are stored as CSV files in the public/ folder.
+- Fetching Data: Pages fetch CSV files using fetch() and parse them with PapaParse.
+- State Management: React’s useState and useEffect hooks manage data, form states, and UI interactions.
+
+4. Main Components
+------------------
+4.1. Dashboard
+- Displays summary statistics, charts, and navigation links.
+- Uses Sidebar, Header, and Footer components for layout.
+
+4.2. Sidebar
+- Navigation menu for switching between pages (Dashboard, Analytics, Students, Courses, Enrollment, etc.).
+
+4.3. Header & Footer
+- Consistent branding and navigation at the top and bottom of every page.
+
+4.4. Section
+- Used for grouping content within pages.
+
+5. Main Pages
+-------------
+5.1. Homepage
+- Landing page with overview and navigation.
+
+5.2. Students
+- Displays a table of students loaded from students.csv.
+- Supports searching, filtering, sorting, and editing student data.
+- Add/Edit forms use dropdowns for Gender and Major, with options styled for visibility.
+- New students can be added via a modal form.
+
+5.3. Courses
+- Displays course data from courses.csv.
+- Similar table and editing features as Students.
+
+5.4. Enrollment
+- Displays and manages student enrollments.
+- Add Enrollment form allows selecting a student (dropdown, auto-populates GPA), course, grade, year, and semester.
+- Semester and year dropdowns are dynamically populated from existing enrollment data.
+- Validates required fields before submission.
+- New enrollments are added to the table and reflected in the UI.
+
+5.5. Analytics
+- Uses Chart.js to visualize data (e.g., GPA distribution, course popularity, etc.).
+- Fetches and processes CSV data for chart rendering.
+
+5.6. CSV Viewer/Editor
+- Allows viewing and editing raw CSV files for advanced users/admins.
+
+6. Styling & UX
+---------------
+- Tailwind CSS: Used for all styling, with utility classes for layout, color, spacing, and responsiveness.
+- Modals: Used for add/edit forms, with backdrop blur and opacity for focus.
+- Dropdowns: Custom styled for visibility in dark mode.
+- Icons: Lucide React icons for actions (edit, save, delete, add, sort).
+
+7. Error Handling & Validation
+------------------------------
+- All forms validate required fields before submission.
+- Error messages and alerts are shown for missing or invalid data.
+- Try/catch blocks handle data loading and submission errors.
+
+8. Extensibility
+----------------
+- New pages/components can be added easily by following the existing structure.
+- CSV files can be updated or replaced to change the data set.
+- Chart.js and PapaParse allow for flexible analytics and data processing.
+
+Summary:
+--------
+Your dashboard is a modern, modular React app for managing student, course, and enrollment data, with CSV-based data storage, dynamic forms, analytics, and a clean, responsive UI. It uses Vite for fast development, Tailwind for styling, and several libraries for icons, charts, and CSV parsing.
