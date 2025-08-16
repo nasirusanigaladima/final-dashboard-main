@@ -1,0 +1,501 @@
+EnrollmentID,StudentID,CourseID,Semester,Year,Grade,FirstName,LastName,Gender,DateOfBirth,Major,GPA
+1,1039,COURSE47,2nd semester,2019,F,Lucy,Allen,Female,6/6/2004,Mathematics,2.35
+2,1053,COURSE3,2nd semester,2022,C,Atlas,Russell,Male,4/2/1994,Biology,3.89
+3,1369,COURSE27,2nd semester,2022,B,Poppy,Stevens,Female,5/9/1990,Biology,3.49
+4,1202,COURSE22,Resit,2020,D,Athena,Dixon,Female,5/6/2003,Physics,2.97
+5,1163,COURSE43,1st semester,2020,C,Elias,Baker,Male,10/9/1990,Computer Science,2.01
+6,1307,COURSE26,2nd semester,2019,B,Rose,Lawrence,Female,8/24/1994,Physics,2.67
+7,1474,COURSE38,Resit,2020,F,Wyatt,Davis,Male,4/25/1997,Biology,2.32
+8,1031,COURSE50,2nd semester,2020,C,Bella,Gray,Female,6/29/2003,Physics,2.96
+9,1340,COURSE38,2nd semester,2023,F,Lily,Harris,Female,3/19/1996,Physics,2.91
+10,1374,COURSE16,2nd semester,2022,A,Maverick,Lewis,Male,8/27/2005,Physics,3.9
+11,1496,COURSE26,1st semester,2023,B,Maverick,Cook,Male,5/5/1995,Mathematics,2.1
+12,1197,COURSE38,2nd semester,2024,C,Jaxon,Butler,Male,6/13/1995,Mathematics,2.34
+13,1374,COURSE23,2nd semester,2019,B,Maverick,Lewis,Male,8/27/2005,Physics,3.9
+14,1493,COURSE31,1st semester,2023,A,Xavier,Parker,Male,10/4/1996,Physics,3.96
+15,1039,COURSE9,Resit,2022,A,Lucy,Allen,Female,6/6/2004,Mathematics,2.35
+16,1001,COURSE18,2nd semester,2021,B,Aria,Lane,Female,9/3/2004,Physics,2.33
+17,1139,COURSE13,1st semester,2019,B,Tommy,Clarke,Male,10/5/1999,Mathematics,3.96
+18,1365,COURSE18,1st semester,2022,A,Addison,Jones,Female,8/29/1998,Mathematics,2.77
+19,1106,COURSE28,Resit,2020,F,Daisy,Khan,Female,5/19/1997,Computer Science,2.97
+20,1117,COURSE19,Resit,2024,B,Florence,Walsh,Female,12/2/2001,Physics,2.06
+21,1321,COURSE11,1st semester,2023,B,Ali,Smith,Male,1/14/1991,Biology,2.3
+22,1351,COURSE6,1st semester,2023,D,Florence,Rogers,Female,6/12/1995,Physics,2.83
+23,1446,COURSE10,2nd semester,2020,A,Zara,Phillips,Female,7/12/2003,Mathematics,2.03
+24,1335,COURSE27,1st semester,2021,C,Daniel,Mason,Male,4/5/2000,Mathematics,3.05
+25,1234,COURSE2,Resit,2020,D,Axel,Cooper,Male,10/31/1997,Computer Science,3.77
+26,1420,COURSE46,1st semester,2019,C,Lillian,Murphy,Female,7/12/1991,Mathematics,3.21
+27,1039,COURSE49,Resit,2020,C,Lucy,Allen,Female,6/6/2004,Mathematics,2.35
+28,1458,COURSE35,1st semester,2022,A,Brielle,Ellis,Female,3/11/1992,Physics,2.33
+29,1256,COURSE46,Resit,2020,A,Ellie,Cox,Female,4/3/2002,Biology,2.94
+30,1405,COURSE17,1st semester,2019,D,Jade,Hunt,Female,3/24/1993,Computer Science,2.68
+31,1387,COURSE49,2nd semester,2019,B,Sophia,Ford,Female,2/1/1990,Physics,2.05
+32,1114,COURSE18,1st semester,2020,F,Christopher,Pearce,Male,7/7/1996,Computer Science,2.42
+33,1055,COURSE41,2nd semester,2021,F,Vivian,Morris,Female,6/24/1999,Computer Science,2.1
+34,1060,COURSE24,2nd semester,2023,A,Lucy,Harris,Female,9/22/2005,Computer Science,2.4
+35,1316,COURSE41,2nd semester,2021,C,Enzo,Davies,Male,2/17/1994,Mathematics,3.96
+36,1271,COURSE17,1st semester,2020,F,Ellie,Davies,Female,1/2/1995,Physics,2.76
+37,1314,COURSE13,Resit,2024,A,Brooklyn,Collins,Female,1/28/1996,Mathematics,2.73
+38,1388,COURSE18,Resit,2022,A,Enzo,Jenkins,Male,9/23/1990,Computer Science,3.23
+39,1180,COURSE25,Resit,2019,C,Aaliyah,Baker,Female,7/9/1992,Biology,3.94
+40,1103,COURSE34,2nd semester,2022,A,Mateo,Wright,Male,7/13/1999,Physics,2.07
+41,1245,COURSE4,1st semester,2019,F,Emily,Moore,Female,3/11/2000,Biology,2.45
+42,1109,COURSE26,2nd semester,2021,A,Jade,Morgan,Female,11/15/2000,Biology,2.65
+43,1400,COURSE31,1st semester,2021,A,Freddie,Clarke,Male,1/13/1998,Mathematics,3.15
+44,1003,COURSE18,Resit,2020,C,Eli,Fletcher,Male,8/11/2001,Biology,3.04
+45,1319,COURSE36,1st semester,2020,D,Caleb,Turner,Male,11/14/1998,Computer Science,3.46
+46,1325,COURSE30,1st semester,2019,A,Beau,Phillips,Male,5/15/2004,Biology,2.55
+47,1426,COURSE30,2nd semester,2019,C,Violet,Baker,Female,11/19/2000,Biology,3.67
+48,1050,COURSE42,2nd semester,2020,B,Elsie,Powell,Female,5/9/1998,Mathematics,2.87
+49,1333,COURSE47,Resit,2019,D,Axel,Owen,Male,5/25/2003,Computer Science,3.5
+50,1271,COURSE18,2nd semester,2019,A,Ellie,Davies,Female,1/2/1995,Physics,2.76
+51,1370,COURSE24,Resit,2024,D,Hannah,Moore,Female,4/16/1999,Mathematics,2.07
+52,1243,COURSE33,1st semester,2023,B,Jasmine,Perry,Female,2/14/1990,Biology,2.33
+53,1430,COURSE41,1st semester,2023,D,Aaliyah,Harris,Female,3/29/2001,Mathematics,3.38
+54,1456,COURSE10,1st semester,2023,B,Josie,Jones,Female,8/26/1997,Biology,3.13
+55,1151,COURSE48,Resit,2024,C,Theo,Hussain,Male,6/8/1995,Computer Science,2.09
+56,1439,COURSE33,2nd semester,2019,C,Beau,Phillips,Male,3/9/2003,Computer Science,2.23
+57,1324,COURSE43,2nd semester,2024,D,Nova,Robinson,Female,12/24/1997,Computer Science,2.76
+58,1293,COURSE39,Resit,2019,B,Riley,Russell,Female,7/16/1993,Mathematics,3.99
+59,1427,COURSE42,1st semester,2023,A,John,Bailey,Male,10/20/1999,Mathematics,3.37
+60,1249,COURSE46,Resit,2020,A,Brooklyn,Clark,Female,4/14/1998,Physics,2.19
+61,1196,COURSE27,Resit,2022,C,Gabriella,Wright,Female,10/2/2001,Physics,2.32
+62,1333,COURSE44,1st semester,2020,F,Axel,Owen,Male,5/25/2003,Computer Science,3.5
+63,1169,COURSE38,1st semester,2022,D,Alfie,Cooper,Male,9/13/1993,Physics,2.48
+64,1149,COURSE45,1st semester,2021,A,Weston,Andrews,Male,2/28/1999,Biology,2.78
+65,1117,COURSE6,1st semester,2019,D,Florence,Walsh,Female,12/2/2001,Physics,2.06
+66,1043,COURSE12,2nd semester,2019,B,August,Stevens,Male,2/12/1999,Mathematics,2.19
+67,1448,COURSE5,2nd semester,2024,C,Addison,Watson,Female,11/26/1992,Computer Science,2.65
+68,1414,COURSE24,2nd semester,2023,B,Maryam,Howard,Female,7/17/1992,Biology,2.09
+69,1267,COURSE41,2nd semester,2022,B,Grayson,Palmer,Male,3/23/2001,Physics,2.92
+70,1458,COURSE2,Resit,2020,A,Brielle,Ellis,Female,3/11/1992,Physics,2.33
+71,1340,COURSE27,1st semester,2024,B,Lily,Harris,Female,3/19/1996,Physics,2.91
+72,1126,COURSE34,Resit,2023,D,Miles,Martin,Male,9/30/1992,Biology,3.12
+73,1245,COURSE20,Resit,2020,D,Emily,Moore,Female,3/11/2000,Biology,2.45
+74,1249,COURSE32,2nd semester,2023,A,Brooklyn,Clark,Female,4/14/1998,Physics,2.19
+75,1138,COURSE37,2nd semester,2024,D,Brooklyn,Cox,Female,7/24/1997,Mathematics,2.86
+76,1178,COURSE49,Resit,2023,D,Alice,Collins,Female,9/9/1993,Physics,3.11
+77,1039,COURSE24,2nd semester,2020,F,Lucy,Allen,Female,6/6/2004,Mathematics,2.35
+78,1169,COURSE31,Resit,2022,F,Alfie,Cooper,Male,9/13/1993,Physics,2.48
+79,1104,COURSE9,2nd semester,2022,F,Maya,Brown,Female,11/3/1993,Biology,3.2
+80,1019,COURSE26,1st semester,2023,B,Zion,Allen,Male,7/15/2000,Biology,2.75
+81,1196,COURSE22,Resit,2024,A,Gabriella,Wright,Female,10/2/2001,Physics,2.32
+82,1163,COURSE3,2nd semester,2019,B,Elias,Baker,Male,10/9/1990,Computer Science,2.01
+83,1359,COURSE1,Resit,2024,B,Asher,Gray,Male,3/17/2001,Computer Science,2.19
+84,1162,COURSE18,1st semester,2021,A,Beau,Hughes,Male,12/12/1993,Physics,3.98
+85,1407,COURSE39,2nd semester,2020,A,Jaxon,Phillips,Male,6/10/1996,Computer Science,2.05
+86,1279,COURSE41,2nd semester,2024,C,Myles,Fletcher,Male,3/31/1997,Mathematics,3.58
+87,1309,COURSE12,1st semester,2024,D,Elena,Morgan,Female,2/15/1999,Biology,3.56
+88,1143,COURSE37,2nd semester,2024,C,Adam,Mitchell,Male,6/21/1990,Biology,3.74
+89,1191,COURSE22,2nd semester,2020,C,Amara,Palmer,Female,6/21/1994,Mathematics,2.78
+90,1047,COURSE42,Resit,2024,A,Mia,Harvey,Female,8/5/2000,Mathematics,3.34
+91,1475,COURSE24,Resit,2020,F,Adriel,Mason,Male,11/8/1995,Physics,2.51
+92,1450,COURSE22,2nd semester,2024,C,Emery,Smith,Female,11/14/1996,Mathematics,3.94
+93,1400,COURSE3,Resit,2021,D,Freddie,Clarke,Male,1/13/1998,Mathematics,3.15
+94,1220,COURSE30,2nd semester,2022,A,Atlas,Powell,Male,5/29/2002,Computer Science,3.34
+95,1282,COURSE38,Resit,2023,D,Elijah,White,Male,6/17/1998,Physics,2.8
+96,1486,COURSE43,Resit,2019,F,Jaxon,Stevens,Male,6/22/2000,Physics,2.25
+97,1146,COURSE10,1st semester,2023,A,Madelyn,Ali,Female,5/31/2005,Physics,2.44
+98,1113,COURSE14,1st semester,2023,D,Everly,Clark,Female,9/29/1992,Physics,3.92
+99,1446,COURSE19,Resit,2024,D,Zara,Phillips,Female,7/12/2003,Mathematics,2.03
+100,1467,COURSE30,1st semester,2020,D,Benjamin,Wilkinson,Male,3/18/1990,Mathematics,3.57
+101,1283,COURSE36,1st semester,2021,D,Emery,Parker,Female,6/10/1992,Computer Science,3.21
+102,1445,COURSE40,Resit,2024,F,Finley,Elliott,Male,1/7/1996,Mathematics,3.68
+103,1252,COURSE2,1st semester,2022,A,Zoey,Kennedy,Female,8/14/2001,Mathematics,3.5
+104,1163,COURSE13,1st semester,2020,D,Elias,Baker,Male,10/9/1990,Computer Science,2.01
+105,1175,COURSE39,Resit,2020,B,Lainey,Powell,Female,10/22/1995,Biology,2.04
+106,1277,COURSE3,2nd semester,2019,C,Aurora,Matthews,Female,8/14/2000,Biology,2.24
+107,1410,COURSE15,Resit,2022,F,Charlie,Begum,Male,11/16/1997,Computer Science,3.82
+108,1314,COURSE13,1st semester,2022,D,Brooklyn,Collins,Female,1/28/1996,Mathematics,2.73
+109,1495,COURSE34,2nd semester,2019,B,Mila,White,Female,1/28/1990,Computer Science,2.49
+110,1198,COURSE34,Resit,2019,B,Levi,Thomas,Male,7/3/1990,Computer Science,2.29
+111,1436,COURSE25,2nd semester,2020,A,Abigail,Hunt,Female,8/29/1991,Biology,2.17
+112,1115,COURSE28,1st semester,2024,C,Oaklynn,Jones,Female,12/19/1992,Physics,3.05
+113,1092,COURSE19,Resit,2023,A,Oliver,Brooks,Male,4/22/1990,Biology,3.3
+114,1205,COURSE5,Resit,2022,D,Anaya,Turner,Female,3/16/1992,Mathematics,2.78
+115,1433,COURSE20,Resit,2019,A,Arlo,Shaw,Male,12/13/2002,Computer Science,3.65
+116,1152,COURSE27,2nd semester,2024,D,Poppy,Singh,Female,5/11/1994,Physics,3.86
+117,1137,COURSE31,Resit,2024,A,Abigail,Graham,Female,11/21/2002,Computer Science,2.28
+118,1274,COURSE19,2nd semester,2023,B,Bella,Thomas,Female,11/15/1996,Biology,2.79
+119,1106,COURSE12,1st semester,2020,B,Daisy,Khan,Female,5/19/1997,Computer Science,2.97
+120,1197,COURSE5,2nd semester,2020,A,Jaxon,Butler,Male,6/13/1995,Mathematics,2.34
+121,1262,COURSE4,2nd semester,2021,D,Adam,Murray,Male,8/22/2004,Biology,2.93
+122,1015,COURSE49,Resit,2021,D,Roman,Butler,Male,5/28/2000,Computer Science,2.34
+123,1178,COURSE33,2nd semester,2024,A,Alice,Collins,Female,9/9/1993,Physics,3.11
+124,1106,COURSE27,Resit,2024,D,Daisy,Khan,Female,5/19/1997,Computer Science,2.97
+125,1292,COURSE26,Resit,2022,B,Colton,Allen,Male,10/2/1998,Biology,3.51
+126,1349,COURSE23,1st semester,2023,B,Caleb,Wood,Male,6/20/1994,Biology,2.83
+127,1499,COURSE38,Resit,2020,A,Elsie,Kennedy,Female,11/11/2003,Mathematics,3.47
+128,1302,COURSE15,2nd semester,2022,B,Evelyn,Cook,Female,8/6/1998,Physics,2.53
+129,1098,COURSE2,Resit,2020,A,Walker,Murphy,Male,3/28/2003,Physics,3.54
+130,1225,COURSE7,1st semester,2019,C,Amelia,Ward,Female,9/15/1999,Biology,2.88
+131,1034,COURSE9,2nd semester,2020,B,Theodore,Marshall,Male,6/4/1995,Physics,3.12
+132,1217,COURSE4,Resit,2019,F,Zoey,Jenkins,Female,5/12/1991,Mathematics,3.28
+133,1152,COURSE4,2nd semester,2022,F,Poppy,Singh,Female,5/11/1994,Physics,3.86
+134,1298,COURSE4,1st semester,2021,D,Luke,Griffiths,Male,3/4/1990,Biology,2.74
+135,1273,COURSE48,2nd semester,2024,A,Luka,Morgan,Male,9/27/1992,Computer Science,3.25
+136,1428,COURSE31,2nd semester,2024,F,Hallie,Thompson,Female,8/25/1991,Physics,3.84
+137,1281,COURSE32,2nd semester,2022,C,Xavier,Matthews,Male,11/27/2003,Physics,3.44
+138,1455,COURSE45,Resit,2021,D,Cameron,Hughes,Male,11/13/1998,Physics,2.24
+139,1262,COURSE4,1st semester,2022,C,Adam,Murray,Male,8/22/2004,Biology,2.93
+140,1026,COURSE8,2nd semester,2023,A,Liam,Taylor,Male,1/12/1992,Computer Science,2.42
+141,1122,COURSE40,1st semester,2022,C,Jasmine,Murray,Female,12/20/2005,Physics,2.23
+142,1269,COURSE49,2nd semester,2019,D,Oliver,Lloyd,Male,10/26/1994,Physics,3.48
+143,1052,COURSE26,Resit,2023,A,Eliana,Wilson,Female,6/9/2003,Computer Science,2.32
+144,1450,COURSE18,Resit,2024,B,Emery,Smith,Female,11/14/1996,Mathematics,3.94
+145,1470,COURSE35,1st semester,2024,B,Jace,Ford,Male,7/29/2000,Computer Science,2.46
+146,1251,COURSE42,1st semester,2022,C,Julian,Cox,Male,3/9/1996,Physics,2.25
+147,1215,COURSE32,Resit,2024,A,Sophie,Wilson,Female,1/10/1996,Computer Science,3.57
+148,1473,COURSE40,2nd semester,2020,D,Delilah,Khan,Female,8/23/1997,Biology,3.4
+149,1007,COURSE35,2nd semester,2020,C,Oliver,Ali,Male,8/20/1999,Biology,3.17
+150,1438,COURSE35,1st semester,2020,F,Millie,Williams,Female,1/26/2001,Biology,3.36
+151,1155,COURSE35,1st semester,2021,D,Aaliyah,Powell,Female,1/19/1991,Biology,2.25
+152,1388,COURSE34,1st semester,2023,D,Enzo,Jenkins,Male,9/23/1990,Computer Science,3.23
+153,1115,COURSE34,1st semester,2020,D,Oaklynn,Jones,Female,12/19/1992,Physics,3.05
+154,1221,COURSE15,Resit,2019,C,Aria,Turner,Female,4/20/1994,Mathematics,3.51
+155,1500,COURSE26,1st semester,2019,C,Victoria,Richards,Female,10/3/2004,Computer Science,2.85
+156,1159,COURSE22,2nd semester,2024,A,Melody,Hussain,Female,7/9/2004,Biology,3.14
+157,1075,COURSE46,2nd semester,2019,A,Arabella,Hughes,Female,11/16/1994,Computer Science,2.73
+158,1163,COURSE37,1st semester,2021,C,Elias,Baker,Male,10/9/1990,Computer Science,2.01
+159,1205,COURSE43,2nd semester,2022,F,Anaya,Turner,Female,3/16/1992,Mathematics,2.78
+160,1480,COURSE10,2nd semester,2022,B,Arthur,Miller,Male,8/12/1991,Computer Science,2.66
+161,1064,COURSE10,2nd semester,2021,A,Benjamin,Fox,Male,2/27/1999,Biology,3.96
+162,1072,COURSE9,Resit,2020,B,Alfie,Phillips,Male,5/27/1999,Biology,2.13
+163,1106,COURSE14,2nd semester,2019,F,Daisy,Khan,Female,5/19/1997,Computer Science,2.97
+164,1352,COURSE33,2nd semester,2021,C,Isla,Morris,Female,4/17/2003,Physics,2.72
+165,1125,COURSE21,1st semester,2021,C,Alexander,Lane,Male,7/5/2003,Biology,3.4
+166,1242,COURSE41,1st semester,2019,F,Naomi,Ellis,Female,10/12/1996,Computer Science,3.4
+167,1190,COURSE34,2nd semester,2024,F,Joseph,Clarke,Male,1/18/1995,Biology,2.81
+168,1003,COURSE39,2nd semester,2021,C,Eli,Fletcher,Male,8/11/2001,Biology,3.04
+169,1031,COURSE8,1st semester,2023,D,Bella,Gray,Female,6/29/2003,Physics,2.96
+170,1197,COURSE29,1st semester,2021,D,Jaxon,Butler,Male,6/13/1995,Mathematics,2.34
+171,1162,COURSE39,Resit,2020,D,Beau,Hughes,Male,12/12/1993,Physics,3.98
+172,1221,COURSE29,2nd semester,2023,F,Aria,Turner,Female,4/20/1994,Mathematics,3.51
+173,1371,COURSE40,2nd semester,2019,C,Josie,Kennedy,Female,3/29/1996,Mathematics,3.19
+174,1320,COURSE5,Resit,2020,C,Clara,Cooper,Female,1/7/2004,Mathematics,3.87
+175,1433,COURSE5,2nd semester,2019,F,Arlo,Shaw,Male,12/13/2002,Computer Science,3.65
+176,1008,COURSE9,Resit,2019,F,Serenity,Payne,Female,6/18/1997,Mathematics,2.27
+177,1043,COURSE47,2nd semester,2022,C,August,Stevens,Male,2/12/1999,Mathematics,2.19
+178,1131,COURSE10,Resit,2019,A,Maya,Barker,Female,6/4/1995,Biology,2.33
+179,1278,COURSE30,2nd semester,2023,B,Hailey,Thompson,Female,5/6/1992,Physics,3.36
+180,1218,COURSE28,2nd semester,2019,D,River,King,Male,3/2/1991,Mathematics,2.22
+181,1060,COURSE9,1st semester,2024,C,Lucy,Harris,Female,9/22/2005,Computer Science,2.4
+182,1151,COURSE32,1st semester,2019,B,Theo,Hussain,Male,6/8/1995,Computer Science,2.09
+183,1110,COURSE14,2nd semester,2023,D,Millie,Bell,Female,6/24/1994,Computer Science,2.85
+184,1057,COURSE33,1st semester,2021,D,James,Mason,Male,9/26/1992,Computer Science,2.69
+185,1024,COURSE36,2nd semester,2020,F,Christopher,Griffiths,Male,7/31/2003,Computer Science,3.39
+186,1157,COURSE47,1st semester,2022,B,Aiden,Elliott,Male,7/22/1997,Computer Science,3.58
+187,1113,COURSE14,1st semester,2021,C,Everly,Clark,Female,9/29/1992,Physics,3.92
+188,1001,COURSE1,2nd semester,2020,A,Aria,Lane,Female,9/3/2004,Physics,2.33
+189,1101,COURSE38,2nd semester,2021,C,Maverick,Robinson,Male,6/25/1999,Biology,3.01
+190,1466,COURSE43,Resit,2020,D,Silas,Hussain,Male,4/17/1996,Computer Science,3.62
+191,1377,COURSE47,1st semester,2024,C,Luna,Fisher,Female,12/7/1998,Mathematics,3.31
+192,1212,COURSE5,2nd semester,2019,F,Tommy,Baker,Male,11/16/1997,Computer Science,3.03
+193,1292,COURSE8,1st semester,2022,C,Colton,Allen,Male,10/2/1998,Biology,3.51
+194,1256,COURSE17,Resit,2024,C,Ellie,Cox,Female,4/3/2002,Biology,2.94
+195,1399,COURSE28,Resit,2024,C,Aaliyah,Singh,Female,7/8/2004,Computer Science,3.85
+196,1466,COURSE32,2nd semester,2023,B,Silas,Hussain,Male,4/17/1996,Computer Science,3.62
+197,1349,COURSE25,2nd semester,2022,B,Caleb,Wood,Male,6/20/1994,Biology,2.83
+198,1442,COURSE39,Resit,2023,F,Ava,Shaw,Female,7/5/1999,Biology,2.9
+199,1061,COURSE34,2nd semester,2021,C,Daniel,Palmer,Male,1/15/1990,Biology,3.93
+200,1499,COURSE32,2nd semester,2022,F,Elsie,Kennedy,Female,11/11/2003,Mathematics,3.47
+201,1084,COURSE5,1st semester,2023,A,Raelynn,Reynolds,Female,11/27/2003,Mathematics,2.56
+202,1454,COURSE30,2nd semester,2019,B,Ahmed,Singh,Male,3/7/1997,Computer Science,2.48
+203,1071,COURSE47,Resit,2019,C,Delilah,Marshall,Female,3/4/1998,Mathematics,2.07
+204,1351,COURSE42,2nd semester,2023,C,Florence,Rogers,Female,6/12/1995,Physics,2.83
+205,1438,COURSE23,2nd semester,2021,A,Millie,Williams,Female,1/26/2001,Biology,3.36
+206,1351,COURSE14,1st semester,2020,C,Florence,Rogers,Female,6/12/1995,Physics,2.83
+207,1243,COURSE31,Resit,2022,D,Jasmine,Perry,Female,2/14/1990,Biology,2.33
+208,1415,COURSE11,Resit,2024,D,Reuben,Stevens,Male,6/1/1999,Mathematics,3.78
+209,1251,COURSE5,1st semester,2022,A,Julian,Cox,Male,3/9/1996,Physics,2.25
+210,1183,COURSE5,2nd semester,2023,D,Oliver,Butler,Male,8/7/2001,Biology,2
+211,1110,COURSE34,Resit,2021,B,Millie,Bell,Female,6/24/1994,Computer Science,2.85
+212,1146,COURSE24,Resit,2021,C,Madelyn,Ali,Female,5/31/2005,Physics,2.44
+213,1488,COURSE39,2nd semester,2022,D,Samuel,Marshall,Male,7/21/1998,Biology,2.14
+214,1375,COURSE38,1st semester,2024,A,Julian,Morgan,Male,2/20/1998,Biology,3.49
+215,1346,COURSE30,1st semester,2019,F,Eli,Shaw,Male,9/5/1991,Mathematics,2.07
+216,1235,COURSE40,Resit,2019,B,Bella,Jenkins,Female,5/12/1999,Computer Science,2.94
+217,1409,COURSE36,Resit,2021,F,River,Jones,Male,7/5/1997,Computer Science,2.75
+218,1377,COURSE50,Resit,2020,B,Luna,Fisher,Female,12/7/1998,Mathematics,3.31
+219,1183,COURSE50,1st semester,2024,F,Oliver,Butler,Male,8/7/2001,Biology,2
+220,1408,COURSE33,2nd semester,2023,F,Mila,Mitchell,Female,2/22/1990,Biology,2.65
+221,1337,COURSE23,Resit,2022,D,Jacob,Allen,Male,5/5/1994,Mathematics,2.06
+222,1015,COURSE48,Resit,2020,B,Roman,Butler,Male,5/28/2000,Computer Science,2.34
+223,1197,COURSE11,Resit,2023,A,Jaxon,Butler,Male,6/13/1995,Mathematics,2.34
+224,1426,COURSE38,Resit,2023,D,Violet,Baker,Female,11/19/2000,Biology,3.67
+225,1008,COURSE50,2nd semester,2022,F,Serenity,Payne,Female,6/18/1997,Mathematics,2.27
+226,1124,COURSE3,Resit,2022,A,Oaklynn,Fletcher,Female,11/3/1994,Computer Science,2.93
+227,1374,COURSE10,Resit,2022,B,Maverick,Lewis,Male,8/27/2005,Physics,3.9
+228,1238,COURSE21,Resit,2022,B,Malachi,Kelly,Male,10/26/1999,Computer Science,2.12
+229,1223,COURSE16,1st semester,2022,B,Grace,Lawrence,Female,11/29/1993,Computer Science,2.8
+230,1182,COURSE5,Resit,2020,B,Stella,Perry,Female,6/11/1996,Physics,3.78
+231,1193,COURSE37,1st semester,2021,F,Addison,Stewart,Female,4/21/1990,Biology,2.33
+232,1107,COURSE49,1st semester,2024,F,Clara,Ford,Female,5/5/1997,Biology,2.76
+233,1038,COURSE42,2nd semester,2019,F,Valentina,O'Brien,Female,6/27/2003,Physics,2.42
+234,1358,COURSE11,2nd semester,2019,D,Lyla,Mitchell,Female,4/22/2000,Physics,2.85
+235,1072,COURSE23,Resit,2024,C,Alfie,Phillips,Male,5/27/1999,Biology,2.13
+236,1075,COURSE37,Resit,2023,A,Arabella,Hughes,Female,11/16/1994,Computer Science,2.73
+237,1465,COURSE13,2nd semester,2024,F,Archie,Bailey,Male,12/9/1996,Computer Science,3.82
+238,1439,COURSE27,Resit,2019,C,Beau,Phillips,Male,3/9/2003,Computer Science,2.23
+239,1306,COURSE44,1st semester,2019,C,George,Powell,Male,10/28/1995,Computer Science,2.8
+240,1217,COURSE41,2nd semester,2022,B,Zoey,Jenkins,Female,5/12/1991,Mathematics,3.28
+241,1245,COURSE41,2nd semester,2023,A,Emily,Moore,Female,3/11/2000,Biology,2.45
+242,1469,COURSE12,1st semester,2020,D,Jade,Powell,Female,2/10/2001,Biology,3.68
+243,1270,COURSE45,Resit,2024,C,Cooper,Mitchell,Male,2/23/2001,Mathematics,2.45
+244,1317,COURSE19,2nd semester,2019,A,Anaya,Walker,Female,11/19/1991,Mathematics,2.6
+245,1388,COURSE25,1st semester,2022,C,Enzo,Jenkins,Male,9/23/1990,Computer Science,3.23
+246,1193,COURSE23,Resit,2021,D,Addison,Stewart,Female,4/21/1990,Biology,2.33
+247,1442,COURSE29,1st semester,2021,B,Ava,Shaw,Female,7/5/1999,Biology,2.9
+248,1092,COURSE35,1st semester,2022,F,Oliver,Brooks,Male,4/22/1990,Biology,3.3
+249,1319,COURSE39,1st semester,2023,C,Caleb,Turner,Male,11/14/1998,Computer Science,3.46
+250,1034,COURSE2,1st semester,2019,D,Theodore,Marshall,Male,6/4/1995,Physics,3.12
+251,1146,COURSE39,1st semester,2020,B,Madelyn,Ali,Female,5/31/2005,Physics,2.44
+252,1492,COURSE15,2nd semester,2021,C,Carter,Baker,Male,1/21/1996,Biology,3.9
+253,1116,COURSE38,2nd semester,2021,D,Naomi,Day,Female,11/23/1990,Physics,3.82
+254,1322,COURSE6,1st semester,2023,B,Maeve,Day,Female,4/2/2001,Physics,2.44
+255,1384,COURSE50,Resit,2019,D,Ayla,Baker,Female,2/1/1998,Physics,3.6
+256,1207,COURSE27,2nd semester,2020,D,Wyatt,Barnes,Male,7/30/2002,Computer Science,2.22
+257,1186,COURSE48,Resit,2021,C,Maya,Reynolds,Female,1/12/2003,Physics,3.92
+258,1070,COURSE48,1st semester,2023,A,Victoria,Rogers,Female,12/11/1991,Physics,3.36
+259,1270,COURSE26,1st semester,2023,C,Cooper,Mitchell,Male,2/23/2001,Mathematics,2.45
+260,1403,COURSE8,1st semester,2020,F,Ryan,Lawrence,Male,5/23/1997,Mathematics,3.51
+261,1203,COURSE17,2nd semester,2022,B,Harry,West,Male,8/13/2004,Physics,2.47
+262,1003,COURSE19,Resit,2019,B,Eli,Fletcher,Male,8/11/2001,Biology,3.04
+263,1497,COURSE22,Resit,2023,F,Cameron,Elliott,Male,5/24/2003,Computer Science,2.55
+264,1463,COURSE30,Resit,2019,B,Fatima,Griffiths,Female,1/9/1996,Mathematics,2.49
+265,1242,COURSE27,2nd semester,2024,C,Naomi,Ellis,Female,10/12/1996,Computer Science,3.4
+266,1245,COURSE33,1st semester,2020,D,Emily,Moore,Female,3/11/2000,Biology,2.45
+267,1002,COURSE28,Resit,2023,C,Rosie,Edwards,Female,5/13/2001,Computer Science,2.07
+268,1095,COURSE41,2nd semester,2022,D,Maria,Johnson,Female,5/15/1998,Computer Science,2.78
+269,1319,COURSE50,1st semester,2020,C,Caleb,Turner,Male,11/14/1998,Computer Science,3.46
+270,1475,COURSE2,Resit,2024,F,Adriel,Mason,Male,11/8/1995,Physics,2.51
+271,1013,COURSE24,1st semester,2020,C,Walker,Pearson,Male,7/24/1996,Biology,2.93
+272,1438,COURSE14,1st semester,2019,A,Millie,Williams,Female,1/26/2001,Biology,3.36
+273,1057,COURSE48,Resit,2022,C,James,Mason,Male,9/26/1992,Computer Science,2.69
+274,1007,COURSE16,Resit,2021,F,Oliver,Ali,Male,8/20/1999,Biology,3.17
+275,1229,COURSE20,1st semester,2024,F,Isabella,Fisher,Female,3/31/1990,Physics,3.15
+276,1390,COURSE29,1st semester,2021,A,Rowan,Campbell,Male,3/17/2003,Physics,3.08
+277,1212,COURSE41,2nd semester,2021,A,Tommy,Baker,Male,11/16/1997,Computer Science,3.03
+278,1456,COURSE17,Resit,2020,F,Josie,Jones,Female,8/26/1997,Biology,3.13
+279,1467,COURSE18,2nd semester,2022,F,Benjamin,Wilkinson,Male,3/18/1990,Mathematics,3.57
+280,1339,COURSE50,1st semester,2022,A,Beau,Thompson,Male,5/17/2001,Biology,3.01
+281,1211,COURSE49,2nd semester,2022,C,Bella,Lloyd,Female,3/4/1995,Physics,2.77
+282,1206,COURSE5,2nd semester,2022,B,Mila,Cook,Female,4/17/2005,Mathematics,2.38
+283,1108,COURSE43,Resit,2023,D,Noah,Stevens,Male,12/23/1995,Mathematics,3.23
+284,1137,COURSE21,Resit,2023,D,Abigail,Graham,Female,11/21/2002,Computer Science,2.28
+285,1102,COURSE24,2nd semester,2021,D,Micah,Price,Male,12/31/2001,Biology,2.47
+286,1137,COURSE41,1st semester,2024,D,Abigail,Graham,Female,11/21/2002,Computer Science,2.28
+287,1089,COURSE25,2nd semester,2021,A,Axel,Jackson,Male,1/3/1991,Mathematics,3.13
+288,1347,COURSE17,1st semester,2021,D,Layla,Jenkins,Female,6/6/2002,Biology,2.31
+289,1002,COURSE12,Resit,2019,F,Rosie,Edwards,Female,5/13/2001,Computer Science,2.07
+290,1158,COURSE9,1st semester,2019,C,Luke,Hunt,Male,12/4/1994,Computer Science,3.24
+291,1131,COURSE6,Resit,2019,D,Maya,Barker,Female,6/4/1995,Biology,2.33
+292,1276,COURSE28,Resit,2023,C,Elias,Dixon,Male,2/9/1990,Biology,3.17
+293,1139,COURSE6,Resit,2021,F,Tommy,Clarke,Male,10/5/1999,Mathematics,3.96
+294,1342,COURSE40,Resit,2023,A,Jace,Saunders,Male,5/25/2003,Physics,2.58
+295,1265,COURSE40,2nd semester,2024,A,Beau,Roberts,Male,10/13/1993,Physics,2.97
+296,1496,COURSE49,Resit,2023,A,Maverick,Cook,Male,5/5/1995,Mathematics,2.1
+297,1014,COURSE6,1st semester,2024,C,Lily,Parker,Female,6/17/1998,Computer Science,3.43
+298,1300,COURSE2,1st semester,2019,C,Raelynn,Dixon,Female,4/26/1994,Computer Science,2.28
+299,1137,COURSE44,1st semester,2024,D,Abigail,Graham,Female,11/21/2002,Computer Science,2.28
+300,1452,COURSE18,Resit,2021,A,Joshua,Jackson,Male,4/17/1995,Biology,2.39
+301,1378,COURSE43,1st semester,2019,C,Camila,Cooper,Female,5/16/1998,Physics,3.88
+302,1224,COURSE30,Resit,2020,B,Everett,Lewis,Male,6/28/1999,Computer Science,3.85
+303,1192,COURSE44,Resit,2019,D,Serenity,Phillips,Female,7/20/1994,Mathematics,3.99
+304,1298,COURSE20,1st semester,2020,A,Luke,Griffiths,Male,3/4/1990,Biology,2.74
+305,1136,COURSE26,1st semester,2020,A,Rowan,Clarke,Male,3/19/1997,Computer Science,2.69
+306,1237,COURSE13,1st semester,2019,B,Michael,Webb,Male,8/6/2001,Mathematics,3.74
+307,1322,COURSE21,1st semester,2019,D,Maeve,Day,Female,4/2/2001,Physics,2.44
+308,1103,COURSE13,1st semester,2023,F,Mateo,Wright,Male,7/13/1999,Physics,2.07
+309,1298,COURSE32,Resit,2021,C,Luke,Griffiths,Male,3/4/1990,Biology,2.74
+310,1427,COURSE48,2nd semester,2020,D,John,Bailey,Male,10/20/1999,Mathematics,3.37
+311,1283,COURSE11,Resit,2019,D,Emery,Parker,Female,6/10/1992,Computer Science,3.21
+312,1385,COURSE41,2nd semester,2024,D,Hudson,Parker,Male,3/29/1996,Computer Science,3.15
+313,1435,COURSE16,1st semester,2022,C,Mila,Richards,Female,9/17/1997,Biology,3.44
+314,1253,COURSE38,1st semester,2021,B,Cameron,Fisher,Male,8/30/1999,Biology,3.63
+315,1387,COURSE48,Resit,2024,F,Sophia,Ford,Female,2/1/1990,Physics,2.05
+316,1199,COURSE35,1st semester,2021,D,Jordan,Barnes,Male,11/9/2002,Mathematics,2.46
+317,1410,COURSE3,Resit,2019,C,Charlie,Begum,Male,11/16/1997,Computer Science,3.82
+318,1287,COURSE44,1st semester,2021,D,Scarlett,Green,Female,4/6/2005,Mathematics,2.98
+319,1455,COURSE1,2nd semester,2023,D,Cameron,Hughes,Male,11/13/1998,Physics,2.24
+320,1050,COURSE40,2nd semester,2020,C,Elsie,Powell,Female,5/9/1998,Mathematics,2.87
+321,1121,COURSE30,Resit,2019,C,Brooks,Ellis,Male,2/27/1990,Biology,3.77
+322,1095,COURSE35,1st semester,2023,A,Maria,Johnson,Female,5/15/1998,Computer Science,2.78
+323,1379,COURSE28,1st semester,2021,A,Gabriella,Morris,Female,5/30/1992,Biology,3.6
+324,1464,COURSE35,Resit,2022,D,Grace,Edwards,Female,7/21/2000,Computer Science,3.08
+325,1339,COURSE26,2nd semester,2021,D,Beau,Thompson,Male,5/17/2001,Biology,3.01
+326,1491,COURSE7,1st semester,2020,A,Mason,Barnes,Male,1/15/1996,Computer Science,3.39
+327,1095,COURSE5,2nd semester,2022,A,Maria,Johnson,Female,5/15/1998,Computer Science,2.78
+328,1388,COURSE11,1st semester,2024,F,Enzo,Jenkins,Male,9/23/1990,Computer Science,3.23
+329,1364,COURSE43,Resit,2024,B,Noah,Lane,Male,12/9/1991,Computer Science,3.89
+330,1336,COURSE32,Resit,2021,C,Theodore,Baker,Male,11/18/2005,Computer Science,2.86
+331,1084,COURSE9,Resit,2020,C,Raelynn,Reynolds,Female,11/27/2003,Mathematics,2.56
+332,1419,COURSE10,1st semester,2019,D,James,Khan,Male,4/4/1993,Computer Science,3.27
+333,1219,COURSE37,2nd semester,2023,C,Nova,Bailey,Female,12/5/2004,Biology,3.21
+334,1282,COURSE22,Resit,2020,F,Elijah,White,Male,6/17/1998,Physics,2.8
+335,1097,COURSE26,Resit,2021,A,Nevaeh,Jones,Female,2/27/2003,Mathematics,3.94
+336,1363,COURSE29,2nd semester,2021,C,Christian,Harvey,Male,4/27/2001,Biology,3.23
+337,1411,COURSE18,1st semester,2019,A,Ahmed,Phillips,Male,1/28/2005,Computer Science,3.41
+338,1352,COURSE4,Resit,2024,D,Isla,Morris,Female,4/17/2003,Physics,2.72
+339,1233,COURSE45,2nd semester,2020,B,Isaac,Fletcher,Male,10/28/1992,Biology,3.5
+340,1113,COURSE24,Resit,2020,D,Everly,Clark,Female,9/29/1992,Physics,3.92
+341,1220,COURSE49,1st semester,2021,B,Atlas,Powell,Male,5/29/2002,Computer Science,3.34
+342,1234,COURSE13,Resit,2023,D,Axel,Cooper,Male,10/31/1997,Computer Science,3.77
+343,1339,COURSE15,Resit,2023,D,Beau,Thompson,Male,5/17/2001,Biology,3.01
+344,1090,COURSE11,Resit,2023,C,Nathan,Russell,Male,1/20/1998,Mathematics,3.27
+345,1400,COURSE34,1st semester,2022,F,Freddie,Clarke,Male,1/13/1998,Mathematics,3.15
+346,1107,COURSE49,2nd semester,2019,C,Clara,Ford,Female,5/5/1997,Biology,2.76
+347,1014,COURSE44,1st semester,2020,D,Lily,Parker,Female,6/17/1998,Computer Science,3.43
+348,1081,COURSE19,Resit,2021,D,Kai,Williams,Male,2/22/2004,Biology,3.92
+349,1046,COURSE15,Resit,2024,D,Aiden,Kelly,Male,5/3/1998,Physics,3.25
+350,1175,COURSE39,1st semester,2024,F,Lainey,Powell,Female,10/22/1995,Biology,2.04
+351,1430,COURSE34,Resit,2023,D,Aaliyah,Harris,Female,3/29/2001,Mathematics,3.38
+352,1348,COURSE16,Resit,2023,D,Jade,Griffiths,Female,8/27/1999,Mathematics,2.06
+353,1257,COURSE10,Resit,2021,B,Anaya,Gray,Female,6/16/1997,Biology,3.41
+354,1462,COURSE50,Resit,2024,C,Lucas,Evans,Male,2/12/1990,Biology,3.22
+355,1424,COURSE22,Resit,2024,C,Nolan,Johnson,Male,2/23/1994,Physics,3.68
+356,1034,COURSE25,Resit,2020,D,Theodore,Marshall,Male,6/4/1995,Physics,3.12
+357,1085,COURSE6,1st semester,2020,C,Freya,Pearson,Female,7/30/1997,Biology,3.82
+358,1339,COURSE33,1st semester,2022,A,Beau,Thompson,Male,5/17/2001,Biology,3.01
+359,1287,COURSE18,Resit,2024,F,Scarlett,Green,Female,4/6/2005,Mathematics,2.98
+360,1316,COURSE13,2nd semester,2022,C,Enzo,Davies,Male,2/17/1994,Mathematics,3.96
+361,1478,COURSE5,1st semester,2024,D,Zara,Lewis,Female,3/3/1992,Biology,3.68
+362,1311,COURSE26,1st semester,2024,B,Rosie,Clark,Female,8/18/2004,Mathematics,3.88
+363,1130,COURSE6,2nd semester,2021,B,Clara,Foster,Female,1/20/1998,Biology,3.54
+364,1099,COURSE47,Resit,2024,D,Valentina,Ali,Female,12/16/2002,Computer Science,2.04
+365,1280,COURSE2,1st semester,2021,F,Emma,Moore,Female,6/19/1997,Physics,3.75
+366,1423,COURSE17,2nd semester,2024,B,Fatima,Russell,Female,9/28/2004,Mathematics,3.8
+367,1347,COURSE9,2nd semester,2022,D,Layla,Jenkins,Female,6/6/2002,Biology,2.31
+368,1141,COURSE2,2nd semester,2020,B,Colton,Bailey,Male,12/17/2001,Mathematics,2.51
+369,1476,COURSE27,1st semester,2023,B,Sophie,Patel,Female,6/16/2000,Computer Science,3.36
+370,1486,COURSE44,1st semester,2020,A,Jaxon,Stevens,Male,6/22/2000,Physics,2.25
+371,1104,COURSE24,Resit,2024,D,Maya,Brown,Female,11/3/1993,Biology,3.2
+372,1184,COURSE21,2nd semester,2022,C,Oaklynn,Hall,Female,1/3/1995,Biology,4
+373,1329,COURSE36,1st semester,2020,C,Finley,Roberts,Male,1/11/1992,Computer Science,2.1
+374,1318,COURSE39,2nd semester,2023,B,Brooks,Palmer,Male,12/3/1998,Computer Science,3.61
+375,1223,COURSE41,1st semester,2023,A,Grace,Lawrence,Female,11/29/1993,Computer Science,2.8
+376,1291,COURSE45,1st semester,2020,F,Walker,Perry,Male,4/14/2003,Physics,3.61
+377,1412,COURSE7,1st semester,2020,F,Jacob,Payne,Male,8/10/1990,Computer Science,2.82
+378,1171,COURSE2,2nd semester,2024,C,Christian,Dixon,Male,3/12/1992,Physics,3.52
+379,1354,COURSE43,Resit,2022,C,Evie,Knight,Female,7/18/1995,Mathematics,2.47
+380,1369,COURSE22,2nd semester,2022,B,Poppy,Stevens,Female,5/9/1990,Biology,3.49
+381,1432,COURSE16,Resit,2022,A,Zoey,Taylor,Female,5/8/1998,Biology,2.63
+382,1359,COURSE8,2nd semester,2020,B,Asher,Gray,Male,3/17/2001,Computer Science,2.19
+383,1099,COURSE25,2nd semester,2023,B,Valentina,Ali,Female,12/16/2002,Computer Science,2.04
+384,1260,COURSE41,1st semester,2020,A,Jade,Powell,Female,1/16/1994,Biology,2.02
+385,1366,COURSE44,Resit,2024,B,Lincoln,Brown,Male,12/10/1995,Mathematics,2.45
+386,1442,COURSE15,1st semester,2022,F,Ava,Shaw,Female,7/5/1999,Biology,2.9
+387,1295,COURSE8,Resit,2020,F,Axel,Fletcher,Male,4/13/1999,Computer Science,2.8
+388,1388,COURSE46,2nd semester,2024,B,Enzo,Jenkins,Male,9/23/1990,Computer Science,3.23
+389,1037,COURSE33,1st semester,2020,C,Camila,Butler,Female,1/24/1990,Computer Science,2.27
+390,1335,COURSE34,2nd semester,2023,A,Daniel,Mason,Male,4/5/2000,Mathematics,3.05
+391,1399,COURSE12,1st semester,2020,A,Aaliyah,Singh,Female,7/8/2004,Computer Science,3.85
+392,1077,COURSE22,1st semester,2020,F,Finley,Russell,Male,4/22/2000,Biology,2.91
+393,1234,COURSE28,1st semester,2021,F,Axel,Cooper,Male,10/31/1997,Computer Science,3.77
+394,1152,COURSE38,1st semester,2020,D,Poppy,Singh,Female,5/11/1994,Physics,3.86
+395,1418,COURSE1,2nd semester,2019,B,Lily,Owen,Female,5/11/1995,Physics,2.1
+396,1300,COURSE21,2nd semester,2022,A,Raelynn,Dixon,Female,4/26/1994,Computer Science,2.28
+397,1406,COURSE26,Resit,2021,F,Victoria,Clarke,Female,5/3/1991,Physics,2.45
+398,1044,COURSE28,Resit,2023,A,Charlie,Jones,Male,4/10/2003,Computer Science,2.43
+399,1404,COURSE5,Resit,2022,F,Sienna,Day,Female,3/12/1997,Physics,2.12
+400,1079,COURSE40,Resit,2022,B,Freddie,Day,Male,6/7/1996,Biology,3.18
+401,1302,COURSE9,1st semester,2020,A,Evelyn,Cook,Female,8/6/1998,Physics,2.53
+402,1374,COURSE11,Resit,2022,C,Maverick,Lewis,Male,8/27/2005,Physics,3.9
+403,1409,COURSE15,1st semester,2019,D,River,Jones,Male,7/5/1997,Computer Science,2.75
+404,1450,COURSE29,Resit,2020,D,Emery,Smith,Female,11/14/1996,Mathematics,3.94
+405,1256,COURSE2,2nd semester,2023,A,Ellie,Cox,Female,4/3/2002,Biology,2.94
+406,1136,COURSE36,Resit,2019,F,Rowan,Clarke,Male,3/19/1997,Computer Science,2.69
+407,1264,COURSE18,Resit,2021,F,Isla,Martin,Female,12/7/2005,Computer Science,3.79
+408,1124,COURSE37,Resit,2024,B,Oaklynn,Fletcher,Female,11/3/1994,Computer Science,2.93
+409,1297,COURSE3,2nd semester,2019,C,Stella,Brooks,Female,11/20/1990,Biology,3.5
+410,1020,COURSE40,Resit,2023,C,Hallie,Cook,Female,1/9/1998,Computer Science,3.75
+411,1222,COURSE48,Resit,2020,B,Michael,Lee,Male,12/25/2000,Physics,3.58
+412,1290,COURSE17,1st semester,2019,D,Luka,Bell,Male,6/20/2004,Biology,3.52
+413,1348,COURSE48,1st semester,2022,F,Jade,Griffiths,Female,8/27/1999,Mathematics,2.06
+414,1052,COURSE44,1st semester,2023,D,Eliana,Wilson,Female,6/9/2003,Computer Science,2.32
+415,1500,COURSE38,2nd semester,2023,A,Victoria,Richards,Female,10/3/2004,Computer Science,2.85
+416,1401,COURSE19,1st semester,2020,A,Rose,Kennedy,Female,8/10/2002,Computer Science,2.33
+417,1005,COURSE27,Resit,2024,A,Addison,Gibson,Female,5/30/2000,Physics,3.68
+418,1055,COURSE41,2nd semester,2024,A,Vivian,Morris,Female,6/24/1999,Computer Science,2.1
+419,1498,COURSE33,Resit,2022,F,Nevaeh,Simpson,Female,7/28/1991,Biology,3.53
+420,1078,COURSE41,Resit,2020,F,Layla,Brooks,Female,5/7/2003,Biology,2.91
+421,1038,COURSE12,Resit,2019,D,Valentina,O'Brien,Female,6/27/2003,Physics,2.42
+422,1175,COURSE29,1st semester,2020,F,Lainey,Powell,Female,10/22/1995,Biology,2.04
+423,1186,COURSE45,2nd semester,2024,C,Maya,Reynolds,Female,1/12/2003,Physics,3.92
+424,1036,COURSE23,2nd semester,2021,B,George,Wood,Male,12/3/2000,Physics,2.69
+425,1476,COURSE26,2nd semester,2022,C,Sophie,Patel,Female,6/16/2000,Computer Science,3.36
+426,1201,COURSE37,Resit,2020,C,Avery,Rogers,Female,3/17/1992,Computer Science,3.36
+427,1108,COURSE37,Resit,2023,B,Noah,Stevens,Male,12/23/1995,Mathematics,3.23
+428,1071,COURSE2,1st semester,2022,D,Delilah,Marshall,Female,3/4/1998,Mathematics,2.07
+429,1281,COURSE8,2nd semester,2019,F,Xavier,Matthews,Male,11/27/2003,Physics,3.44
+430,1058,COURSE27,Resit,2021,C,Lincoln,Chapman,Male,12/22/2000,Computer Science,2.19
+431,1031,COURSE39,2nd semester,2023,C,Bella,Gray,Female,6/29/2003,Physics,2.96
+432,1089,COURSE35,1st semester,2023,A,Axel,Jackson,Male,1/3/1991,Mathematics,3.13
+433,1497,COURSE42,2nd semester,2021,F,Cameron,Elliott,Male,5/24/2003,Computer Science,2.55
+434,1133,COURSE12,2nd semester,2022,F,Cameron,Singh,Male,6/20/2005,Mathematics,3.27
+435,1279,COURSE46,2nd semester,2019,F,Myles,Fletcher,Male,3/31/1997,Mathematics,3.58
+436,1044,COURSE31,1st semester,2020,D,Charlie,Jones,Male,4/10/2003,Computer Science,2.43
+437,1251,COURSE3,2nd semester,2022,D,Julian,Cox,Male,3/9/1996,Physics,2.25
+438,1330,COURSE4,1st semester,2019,C,Grace,Brooks,Female,8/2/1999,Computer Science,2.84
+439,1394,COURSE41,2nd semester,2020,C,Daniel,Harvey,Male,3/30/1996,Computer Science,3.78
+440,1473,COURSE1,Resit,2021,A,Delilah,Khan,Female,8/23/1997,Biology,3.4
+441,1083,COURSE44,Resit,2024,B,Colton,Pearce,Male,7/26/1995,Physics,3.34
+442,1255,COURSE26,1st semester,2020,C,Roman,Wood,Male,12/22/2005,Physics,3.88
+443,1104,COURSE24,1st semester,2021,F,Maya,Brown,Female,11/3/1993,Biology,3.2
+444,1175,COURSE30,1st semester,2023,B,Lainey,Powell,Female,10/22/1995,Biology,2.04
+445,1454,COURSE31,2nd semester,2022,B,Ahmed,Singh,Male,3/7/1997,Computer Science,2.48
+446,1409,COURSE28,2nd semester,2023,B,River,Jones,Male,7/5/1997,Computer Science,2.75
+447,1023,COURSE24,2nd semester,2024,A,Millie,Wilson,Female,9/16/2005,Biology,2.75
+448,1239,COURSE2,2nd semester,2023,A,Cameron,Palmer,Male,10/5/1998,Mathematics,3.3
+449,1037,COURSE43,Resit,2021,F,Camila,Butler,Female,1/24/1990,Computer Science,2.27
+450,1074,COURSE36,Resit,2024,C,Eloise,Reynolds,Female,3/29/2003,Biology,3.8
+451,1485,COURSE47,1st semester,2022,A,Myles,Pearce,Male,2/1/1997,Physics,3.83
+452,1395,COURSE32,Resit,2021,F,Archie,Howard,Male,8/30/1993,Computer Science,3.75
+453,1021,COURSE13,1st semester,2023,F,Christopher,Allen,Male,1/17/2003,Biology,3.03
+454,1298,COURSE20,2nd semester,2024,B,Luke,Griffiths,Male,3/4/1990,Biology,2.74
+455,1319,COURSE24,Resit,2022,D,Caleb,Turner,Male,11/14/1998,Computer Science,3.46
+456,1177,COURSE18,Resit,2019,B,Noah,Lee,Male,5/25/2000,Mathematics,3.32
+457,1294,COURSE4,Resit,2022,B,Levi,Evans,Male,12/6/1996,Computer Science,2.68
+458,1217,COURSE21,Resit,2019,F,Zoey,Jenkins,Female,5/12/1991,Mathematics,3.28
+459,1136,COURSE36,Resit,2022,A,Rowan,Clarke,Male,3/19/1997,Computer Science,2.69
+460,1214,COURSE28,Resit,2022,C,Jade,Patel,Female,6/29/1992,Biology,2.81
+461,1168,COURSE47,2nd semester,2022,C,Melody,Powell,Female,10/14/1991,Computer Science,2.67
+462,1313,COURSE16,Resit,2023,B,Micah,Dixon,Male,4/15/1998,Mathematics,3.7
+463,1417,COURSE43,2nd semester,2023,D,Levi,Powell,Male,6/15/1993,Physics,3.62
+464,1107,COURSE17,Resit,2023,B,Clara,Ford,Female,5/5/1997,Biology,2.76
+465,1085,COURSE7,2nd semester,2019,F,Freya,Pearson,Female,7/30/1997,Biology,3.82
+466,1438,COURSE15,Resit,2019,C,Millie,Williams,Female,1/26/2001,Biology,3.36
+467,1104,COURSE32,2nd semester,2023,B,Maya,Brown,Female,11/3/1993,Biology,3.2
+468,1076,COURSE45,1st semester,2020,C,Scarlett,Griffiths,Female,3/19/2002,Biology,3.65
+469,1468,COURSE11,2nd semester,2019,C,Elias,Chapman,Male,1/4/1996,Physics,2.43
+470,1267,COURSE15,1st semester,2022,A,Grayson,Palmer,Male,3/23/2001,Physics,2.92
+471,1043,COURSE12,1st semester,2021,B,August,Stevens,Male,2/12/1999,Mathematics,2.19
+472,1111,COURSE49,2nd semester,2022,F,August,Stevens,Male,3/13/1997,Computer Science,3.41
+473,1315,COURSE24,Resit,2023,B,Emily,Graham,Female,10/14/1996,Mathematics,3.18
+474,1164,COURSE47,1st semester,2020,C,Ellie,Phillips,Female,6/7/1995,Computer Science,3.34
+475,1002,COURSE26,2nd semester,2024,A,Rosie,Edwards,Female,5/13/2001,Computer Science,2.07
+476,1198,COURSE7,2nd semester,2020,A,Levi,Thomas,Male,7/3/1990,Computer Science,2.29
+477,1151,COURSE38,Resit,2023,D,Theo,Hussain,Male,6/8/1995,Computer Science,2.09
+478,1346,COURSE2,2nd semester,2022,D,Eli,Shaw,Male,9/5/1991,Mathematics,2.07
+479,1199,COURSE43,1st semester,2022,B,Jordan,Barnes,Male,11/9/2002,Mathematics,2.46
+480,1306,COURSE41,1st semester,2021,D,George,Powell,Male,10/28/1995,Computer Science,2.8
+481,1488,COURSE33,1st semester,2020,B,Samuel,Marshall,Male,7/21/1998,Biology,2.14
+482,1384,COURSE13,Resit,2021,F,Ayla,Baker,Female,2/1/1998,Physics,3.6
+483,1456,COURSE47,2nd semester,2021,D,Josie,Jones,Female,8/26/1997,Biology,3.13
+484,1189,COURSE33,1st semester,2024,A,Oaklynn,Fletcher,Female,12/15/2005,Mathematics,3.14
+485,1493,COURSE10,Resit,2021,B,Xavier,Parker,Male,10/4/1996,Physics,3.96
+486,1042,COURSE45,2nd semester,2020,F,August,Dixon,Male,10/20/1998,Mathematics,3.6
+487,1370,COURSE2,2nd semester,2024,B,Hannah,Moore,Female,4/16/1999,Mathematics,2.07
+488,1413,COURSE12,Resit,2020,B,Brielle,Moore,Female,11/7/1993,Mathematics,2.5
+489,1341,COURSE27,Resit,2023,A,Cameron,Harris,Male,4/11/1995,Computer Science,3.13
+490,1100,COURSE13,Resit,2021,F,Noah,Young,Male,9/12/2005,Mathematics,2.68
+491,1499,COURSE38,2nd semester,2022,C,Elsie,Kennedy,Female,11/11/2003,Mathematics,3.47
+492,1495,COURSE19,Resit,2024,C,Mila,White,Female,1/28/1990,Computer Science,2.49
+493,1225,COURSE19,2nd semester,2019,F,Amelia,Ward,Female,9/15/1999,Biology,2.88
+494,1070,COURSE41,1st semester,2024,F,Victoria,Rogers,Female,12/11/1991,Physics,3.36
+495,1157,COURSE42,2nd semester,2019,B,Aiden,Elliott,Male,7/22/1997,Computer Science,3.58
+496,1163,COURSE14,2nd semester,2023,A,Elias,Baker,Male,10/9/1990,Computer Science,2.01
+497,1274,COURSE9,2nd semester,2020,B,Bella,Thomas,Female,11/15/1996,Biology,2.79
+498,1303,COURSE34,Resit,2024,B,Maryam,Butler,Female,12/30/1992,Biology,3.21
+499,1150,COURSE7,2nd semester,2021,F,Myles,Allen,Male,9/5/2003,Physics,2.1
+500,1391,COURSE36,2nd semester,2019,A,Arthur,Morris,Male,11/19/1995,Mathematics,2.49

@@ -1,0 +1,51 @@
+CourseID,CourseName,Department,Credits,Instructor
+COURSE1,Discrete Mathematics,Mathematics,2,Instructor 1
+COURSE2,Medical Physics,Physics,4,Instructor 2
+COURSE3,Data Management,Computer Science,2,Instructor 3
+COURSE4,Zoology,Biology,4,Instructor 4
+COURSE5,Calculus and Analysis,Mathematics,4,Instructor 5
+COURSE6,Programming Languages,Computer Science,2,Instructor 6
+COURSE7,Calculus and Analysis,Mathematics,4,Instructor 7
+COURSE8,Modern Physics,Physics,3,Instructor 8
+COURSE9,Microbiology,Biology,1,Instructor 9
+COURSE10,Anatomy and Physiology,Biology,3,Instructor 10
+COURSE11,Plant Physiology,Biology,2,Instructor 11
+COURSE12,Discrete Mathematics,Mathematics,1,Instructor 12
+COURSE13,Particle Physics,Physics,2,Instructor 13
+COURSE14,Computer Graphics,Computer Science,4,Instructor 14
+COURSE15,Microbiology,Biology,1,Instructor 15
+COURSE16,Marine Biology,Biology,4,Instructor 16
+COURSE17,Modern Physics,Physics,1,Instructor 17
+COURSE18,Mechanics,Physics,3,Instructor 18
+COURSE19,Molecular Biology,Biology,4,Instructor 19
+COURSE20,Databases,Computer Science,1,Instructor 20
+COURSE21,Web Programming,Computer Science,4,Instructor 21
+COURSE22,Anatomy and Physiology,Biology,2,Instructor 22
+COURSE23,Cybersecurity,Computer Science,1,Instructor 23
+COURSE24,Modern Physics,Physics,4,Instructor 24
+COURSE25,Marine Biology,Biology,1,Instructor 25
+COURSE26,Immunology,Biology,2,Instructor 26
+COURSE27,Anatomy and Physiology,Biology,2,Instructor 27
+COURSE28,Computational Physics,Physics,1,Instructor 28
+COURSE29,Algebra,Mathematics,1,Instructor 29
+COURSE30,Data Structures,Computer Science,3,Instructor 30
+COURSE31,Operating Systems,Computer Science,1,Instructor 31
+COURSE32,Cybersecurity,Computer Science,4,Instructor 32
+COURSE33,Anatomy and Physiology,Biology,4,Instructor 33
+COURSE34,Number Theory,Mathematics,3,Instructor 34
+COURSE35,Human–Computer Interaction,Computer Science,4,Instructor 35
+COURSE36,Computer Programming,Computer Science,4,Instructor 36
+COURSE37,Evolutionary Biology,Biology,4,Instructor 37
+COURSE38,Modern Physics,Physics,2,Instructor 38
+COURSE39,Computational Physics,Physics,2,Instructor 39
+COURSE40,Quantum Mechanics,Physics,2,Instructor 40
+COURSE41,Immunology,Biology,2,Instructor 41
+COURSE42,Evolutionary Biology,Biology,3,Instructor 42
+COURSE43,General Relativity,Physics,3,Instructor 43
+COURSE44,Mathematical Models,Mathematics,3,Instructor 44
+COURSE45,Bioinformatics,Computer Science,4,Instructor 45
+COURSE46,Mechanics,Physics,3,Instructor 46
+COURSE47,Probability and Statistics,Mathematics,2,Instructor 47
+COURSE48,Game Development,Computer Science,3,Instructor 48
+COURSE49,Computer Programming,Computer Science,4,Instructor 49
+COURSE50,Programming Languages,Computer Science,4,Instructor 50

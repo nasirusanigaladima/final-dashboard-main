@@ -1,0 +1,11 @@
+.featureCard {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  padding: 40px 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+  text-align: center;
+  max-width: fit-content;
+  max-height: fit-content;
+}
